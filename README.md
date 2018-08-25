@@ -7,3 +7,6 @@ http://www.barbaracartomante.com/Buon-Natale-2017.html
 
 To realize this animation I took inspiration from this work:
 https://codepen.io/envira/pen/AblwH
+
+
+Coded by: <a href="https://github.com/JonnyBanana">Jonny Banana</a> for <a href="https://github.com/WebChainSolutions">WebChainSolutions</a>
